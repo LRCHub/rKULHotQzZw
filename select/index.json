@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "drunk",
+  "base_artist": "keshi",
+  "createdAt": "2026-02-16T14:05:07.174387Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drunk Dial",
+      "artist": "Jason Owens",
+      "has_synced": true,
+      "path": "select/01_Drunk_Dial_Jason_Owens.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DRUNK OVER YOU",
+      "artist": "Niko Moon",
+      "has_synced": true,
+      "path": "select/02_DRUNK_OVER_YOU_Niko_Moon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Day Drunk",
+      "artist": "Morgan Evans",
+      "has_synced": true,
+      "path": "select/03_Day_Drunk_Morgan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Day Drunk",
+      "artist": "Morgan Evans",
+      "has_synced": true,
+      "path": "select/04_Day_Drunk_Morgan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dear Drunk Me",
+      "artist": "Chad Brownlee",
+      "has_synced": true,
+      "path": "select/05_Dear_Drunk_Me_Chad_Brownlee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drunk (And I Don't Wanna Go Home)",
+      "artist": "Elle King",
+      "has_synced": true,
+      "path": "select/06_Drunk_(And_I_Don't_Wanna_Go_Home)_Elle_King.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Drunk (And I Don't Wanna Go Home) - Acoustic",
+      "artist": "Elle King feat. Miranda Lambert",
+      "has_synced": true,
+      "path": "select/07_Drunk_(And_I_Don't_Wanna_Go_Home)_-_Acoustic_Elle_King_feat._Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drunk (And I Don't Wanna Go Home) (Acoustic)",
+      "artist": "Elle King",
+      "has_synced": true,
+      "path": "select/08_Drunk_(And_I_Don't_Wanna_Go_Home)_(Acoustic)_Elle_King.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Drunk Driving",
+      "artist": "Koe Wetzel",
+      "has_synced": true,
+      "path": "select/09_Drunk_Driving_Koe_Wetzel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Drunk Last Night",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/10_Drunk_Last_Night_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drunk Me",
+      "artist": "Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/11_Drunk_Me_Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drunk Me - Acoustic",
+      "artist": "Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/12_Drunk_Me_-_Acoustic_Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Drunk Me (R3HAB Remix)",
+      "artist": "Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/13_Drunk_Me_(R3HAB_Remix)_Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Drunk Me (R3HAB Remix)",
+      "artist": "Mitchell Tenpenny",
+      "has_synced": false,
+      "path": "select/14_Drunk_Me_(R3HAB_Remix)_Mitchell_Tenpenny.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Drunk On A Plane",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/15_Drunk_On_A_Plane_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Drunk On You",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/16_Drunk_On_You_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Drunk On Your Love",
+      "artist": "Brett Eldredge",
+      "has_synced": true,
+      "path": "select/17_Drunk_On_Your_Love_Brett_Eldredge.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Get Drunk And Be Somebody",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/18_Get_Drunk_And_Be_Somebody_Toby_Keith.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "drunk",
+      "artist": "keshi",
+      "has_synced": false,
+      "path": "select/pl_01_drunk_keshi.txt"
+    }
+  ]
+}
